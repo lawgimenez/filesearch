@@ -1,0 +1,3 @@
+To run go to the directory of filesearch.py and type the following command:
+
+python filesearch.py "C:\Program Files"
